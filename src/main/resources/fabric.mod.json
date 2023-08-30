@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "centering",
+  "version": "${version}",
+  "name": "Centering",
+  "description": "",
+  "authors": [
+    "Tapio"
+  ],
+  "contact": {},
+  "license": "AGPL-3.0",
+  "environment": "*",
+  "mixins": [
+    "centering.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "*"
+  }
+}
